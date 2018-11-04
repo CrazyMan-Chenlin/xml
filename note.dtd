@@ -1,0 +1,9 @@
+<!ELEMENT note (to,from?,heading*,body+)>
+        <!ELEMENT to     EMPTY>
+        <!ELEMENT from    (#PCDATA)>
+        <!ELEMENT heading  ANY>
+        <!ELEMENT body    (#PCDATA)>
+        <!--<!ATTLIST body id CDATA #REQUIRED>-->
+        <!--<!ATTLIST body id CDATA #FIXED "abc">-->
+       <!--<!ATTLIST body id ID #REQUIRED>-->
+        <!ATTLIST body id (a|b|c) #REQUIRED>

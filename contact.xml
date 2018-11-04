@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<contact-list>
+    <!--<contact
+    id="001"
+    name="张三"
+    gender="男"
+    phone="132134564"
+    email="269344402@qq.com"
+    address="广州天河"
+    >
+    </contact>-->
+    <contact id="001">
+        <name>张三</name>
+        <gender>男</gender>
+        <email>269344402@qq.com</email>
+        <address>广州天河</address>
+    </contact>
+    <contact id="002" name="chenlin">
+        <name>李四</name>
+        <gender>女</gender>
+        <email>269344402@qq.com</email>
+        <address>广州花都</address>
+    </contact>
+</contact-list>

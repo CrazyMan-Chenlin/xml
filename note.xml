@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE note SYSTEM "note.dtd">
+
+<note>
+    <to></to>  <!--<to>George</to>-->
+    <from>John</from>
+    <!--<heading>Reminde</heading>-->
+    <body id="a">Don't forget the meeting!</body>
+    <body id="b">Don't forget the meeting!</body>
+    <body id="b">Don't forget the meeting!</body>
+</note>
